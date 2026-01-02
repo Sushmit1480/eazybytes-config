@@ -5,7 +5,8 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Anchal Patil - Product Owner"
-    email: "anchal@gmail.com"
+    email: "{cipher}0ba31054ccacc70c640db43004518b2b8d71047c2673bc4951b749a260006ecac98cf2c08b07e271a2c80c433fa4e3e1"
   onCallSupport:
     - (963) 753-5469
+
     - (147) 951-2574
