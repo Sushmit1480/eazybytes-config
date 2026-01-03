@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker APIs"
+  message: "Welcome to EazyBank accounts related local APIs"
   contactDetails:
     name: "Sushmit Patil - Developer"
     email: "sushmit@gmail.com"
@@ -10,3 +10,4 @@ accounts:
     - (555) 555-1234
 
     - (555) 523-1345
+
